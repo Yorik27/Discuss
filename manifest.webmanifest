@@ -1,0 +1,40 @@
+{
+    "theme_color": "#ffc0cb",
+    "background_color": "#ffc0cb",
+    "display": "standalone",
+    "orientation": "portrait",
+
+    "scope": "/",
+    "start_url": "/index.html",
+    "name": "Discuss",
+    "short_name": "Discuss",
+    "description": "Jeu ap\u00e9ro - Eloquence - Pour ou contre",
+    "icons": [
+        {
+            "src": "/sources/images/icon-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/sources/images/icon-256x256.png",
+            "sizes": "256x256",
+            "type": "image/png"
+        },
+        {
+            "src": "/sources/images/icon-384x384.png",
+            "sizes": "384x384",
+            "type": "image/png"
+        },
+        {
+            "src": "/sources/images/icon-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "/sources/images/maskable_icon_x512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ]
+}
